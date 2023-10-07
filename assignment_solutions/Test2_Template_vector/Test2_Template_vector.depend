@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696636377 source:e:\codes\test2_template_vector\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"Myvector.h"
+	<chrono>
+
+1696635666 e:\codes\test2_template_vector\myvector.h
+	<iostream>
+	<bits/stdc++.h>
+
